@@ -1,0 +1,1158 @@
+Log file created at: 2023/07/13 16:10:38
+Running on machine: tyz-virtual-machine
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20230713 16:10:38.062810 64886 hw1.cpp:35] Create a zero-matrix with size: (5, 6)
+I20230713 16:10:38.063052 64886 hw1.cpp:44] Create a one-matrix with size: (7, 3)
+I20230713 16:10:38.063081 64886 hw1.cpp:35] Create a zero-matrix with size: (4, 4)
+I20230713 16:10:38.063086 64886 hw1.cpp:62] Randomize the zero matrix.
+W20230713 16:10:38.063194 64886 hw1.cpp:58] Wrong range for random: min > max
+I20230713 16:10:38.063380 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 4)
+I20230713 16:10:38.063395 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.063405 64886 hw1.cpp:99] Matrix .* 3.5
+W20230713 16:10:38.063437 64886 hw1.cpp:107] Two matrices multiply:columns of mat1 aren't equal to rows of mat2.
+I20230713 16:10:38.063472 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 1)
+I20230713 16:10:38.063477 64886 hw1.cpp:125] Two matrices multiply.
+I20230713 16:10:38.063496 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 1)
+I20230713 16:10:38.063501 64886 hw1.cpp:125] Two matrices multiply.
+I20230713 16:10:38.063519 64886 hw1.cpp:138] Matrix + 1.5
+I20230713 16:10:38.063524 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 5)
+I20230713 16:10:38.063529 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.063536 64886 hw1.cpp:138] Matrix + 2.44
+W20230713 16:10:38.063556 64886 hw1.cpp:145] Two matrices add: Sizes aren't equal
+I20230713 16:10:38.063568 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 2)
+I20230713 16:10:38.063578 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.063585 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 2)
+I20230713 16:10:38.063589 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.063599 64886 hw1.cpp:158] Two matrices add.
+I20230713 16:10:38.063618 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 5)
+I20230713 16:10:38.063623 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.063632 64886 hw1.cpp:35] Create a zero-matrix with size: (5, 3)
+I20230713 16:10:38.063635 64886 hw1.cpp:174] Transpose the matrix.
+I20230713 16:10:38.063655 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063659 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063678 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063683 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063699 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.063704 64886 hw1.cpp:238] Determinant of the matrix.
+W20230713 16:10:38.063709 64886 hw1.cpp:24] The operation asks for a square matrix.
+I20230713 16:10:38.063726 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.063731 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.063735 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063738 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063742 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063746 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063750 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063753 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063757 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063761 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063766 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063769 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063772 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063776 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063781 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063784 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063788 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063791 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063795 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063799 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063802 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063807 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.063823 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063827 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063831 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063835 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063838 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063843 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063846 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063850 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063854 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063858 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063861 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063865 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063868 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063872 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063876 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063880 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063884 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063887 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063891 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063895 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.063899 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063902 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063906 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063910 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063915 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063917 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063921 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063925 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063930 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063932 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063936 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063941 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063943 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063947 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063951 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063956 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063958 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063962 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063966 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063971 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.063974 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063977 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.063982 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063985 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063989 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.063992 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.063997 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064000 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064004 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064007 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064011 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064015 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064019 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064023 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064026 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064030 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064039 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064043 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064047 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064070 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.064074 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064078 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064082 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064086 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064090 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064095 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064100 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064103 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064107 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064111 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064114 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064118 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064122 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064126 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064129 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064133 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064137 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064141 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064144 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064148 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064152 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064157 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064159 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064163 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064167 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064170 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064174 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064178 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064182 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064186 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064189 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064193 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064198 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064200 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064204 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064208 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064211 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064215 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064219 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064224 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064227 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064231 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064234 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064239 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064242 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064245 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064249 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064253 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064257 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064260 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064265 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064280 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064285 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064287 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064291 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064296 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064299 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064302 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064306 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064311 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064314 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064364 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064368 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064373 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064376 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064380 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064383 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064388 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064391 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064395 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064399 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064402 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064406 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064410 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064414 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064417 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064421 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064424 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064428 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064432 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064468 64886 hw1.cpp:238] Determinant of the matrix.
+W20230713 16:10:38.064473 64886 hw1.cpp:24] The operation asks for a square matrix.
+I20230713 16:10:38.064499 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.064503 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064507 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064512 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064515 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064519 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064522 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064527 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064530 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064534 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064538 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064541 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064545 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064548 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064553 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064556 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064560 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064563 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064568 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064571 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064575 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064579 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064582 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064586 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064599 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064603 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064607 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064611 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064616 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064620 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064625 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064630 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064642 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064647 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064651 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064654 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064658 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064661 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064666 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064668 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064672 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064677 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064680 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064683 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064687 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064690 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064694 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064698 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064702 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064705 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064709 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064713 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064716 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064719 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064723 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064726 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064730 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064733 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064738 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064741 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064744 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064749 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064752 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064755 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064759 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064762 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064766 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064769 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064774 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064777 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064780 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064785 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064787 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064791 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064795 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064798 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064802 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064805 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064810 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064812 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064826 64886 hw1.cpp:211] Minor of the matrix
+W20230713 16:10:38.064831 64886 hw1.cpp:249] Calculate the inverse: det is zero.
+I20230713 16:10:38.064843 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.064847 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064851 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064855 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064858 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064862 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064867 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064869 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064873 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064877 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064880 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064884 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064888 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064891 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064895 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064898 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064903 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064905 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064909 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064913 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064916 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064920 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064924 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064927 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064931 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064934 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064939 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064942 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064945 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064949 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064954 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064956 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064960 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064963 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064967 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064971 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.064975 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064978 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064981 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064985 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.064989 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.064992 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.064996 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065001 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065003 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065007 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065011 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065014 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065018 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065021 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065025 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065029 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065032 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065042 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065047 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065049 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065053 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065057 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065060 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065064 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065068 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065071 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065075 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065079 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065083 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065086 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065090 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065093 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065097 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065100 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065104 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065109 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065111 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065115 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065119 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065122 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065126 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065129 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065133 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065137 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065140 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065145 64886 hw1.cpp:35] Create a zero-matrix with size: (4, 4)
+I20230713 16:10:38.065148 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065153 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065157 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.065161 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065165 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065169 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065173 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065177 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065182 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065186 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065191 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065193 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065197 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065201 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065204 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065208 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065212 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065215 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065219 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065222 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065227 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065230 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065234 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065237 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.065241 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065244 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065254 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065258 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065263 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065265 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065269 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065274 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065276 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065280 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065284 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065287 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065291 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065295 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065299 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065302 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065305 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065310 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065313 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065356 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065364 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.065368 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065372 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065376 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065379 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065383 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065387 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065390 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065394 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065398 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065402 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065405 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065409 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065412 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065416 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065420 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065423 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065428 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065431 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065434 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065438 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065443 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.065445 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065449 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065452 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065456 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065460 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065464 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065467 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065471 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065474 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065479 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065482 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065485 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065490 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065493 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065496 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065513 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065518 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065521 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065526 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065529 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065532 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.065536 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065541 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065543 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065547 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065551 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065554 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065558 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065562 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065565 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065569 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065572 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065577 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065580 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065583 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065587 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065591 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065594 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065598 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065603 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065606 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065609 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.065613 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065616 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065620 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065623 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065627 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065631 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065634 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065639 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065642 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065645 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065649 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065652 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065656 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065660 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065663 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065667 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065671 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065675 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065678 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065682 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065685 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.065690 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065693 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065696 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065701 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065703 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065707 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065711 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065716 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065723 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065727 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065732 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065735 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065738 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065742 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065745 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065749 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065753 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065757 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065760 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065764 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065768 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.065771 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065775 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065778 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065783 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065786 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065789 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065793 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065797 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065800 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065804 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065809 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065811 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065815 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065819 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065822 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065826 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065829 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065833 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065837 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065841 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065845 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.065847 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065851 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065855 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065858 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065862 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065866 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065869 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065873 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065877 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065881 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065884 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065888 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065891 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065896 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065899 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065902 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065907 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065910 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065913 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065917 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065922 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.065929 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065933 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065937 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065941 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065944 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065948 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065953 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065955 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065959 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065963 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065966 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065970 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065973 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.065977 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065981 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065984 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065989 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.065992 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.065995 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.065999 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066004 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.066006 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066010 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066013 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066017 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066021 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066025 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066028 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066032 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066035 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066040 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066043 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066046 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066051 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066054 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066057 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066061 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066066 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066068 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066072 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066076 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066079 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.066083 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066087 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066090 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066094 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066097 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066102 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066105 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066109 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066112 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066116 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066120 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066123 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066128 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066131 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066139 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066143 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066148 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066151 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066155 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066159 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066162 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.066165 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066169 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066174 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066176 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066180 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066184 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066187 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066191 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066195 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066198 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066202 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066206 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066210 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066213 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066217 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066220 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066224 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066228 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066231 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066236 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066239 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.066242 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066246 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066249 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066253 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066257 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066260 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066264 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066268 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066272 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066275 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066278 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066282 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066287 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066290 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066293 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066298 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066300 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066304 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066308 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066313 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066340 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.066351 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066355 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066359 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066362 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066366 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066370 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066383 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066387 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066391 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066394 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066398 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066402 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066406 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066409 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066413 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066416 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066421 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066424 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066428 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066432 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066435 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.066438 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066442 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066447 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066449 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066453 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066457 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066460 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066464 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066468 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066471 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066475 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066478 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066483 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066486 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066489 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066493 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066498 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066500 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066504 64886 hw1.cpp:265] Inverse of the matrix.
+I20230713 16:10:38.066568 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.066573 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066577 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066581 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066584 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066588 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066592 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066596 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066599 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066603 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066607 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066610 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066614 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066618 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066622 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066625 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066629 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066632 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066637 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066640 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066644 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066648 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066660 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066664 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066668 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066673 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066676 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066679 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066684 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066687 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066691 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066694 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066699 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066702 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066705 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066709 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066713 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066716 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066720 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066725 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066728 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066731 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066735 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066740 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066743 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066746 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066751 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066754 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066758 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066761 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066766 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066769 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066772 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066776 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066780 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066783 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066787 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066792 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066795 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066798 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066802 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066807 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066810 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066813 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066817 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066821 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066824 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066828 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066833 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066836 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066839 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066843 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066848 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066850 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066854 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066859 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066862 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066870 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066874 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066879 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066882 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066886 64886 hw1.cpp:35] Create a zero-matrix with size: (4, 4)
+I20230713 16:10:38.066890 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066895 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066897 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.066900 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066905 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066908 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066912 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066915 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066920 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066923 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066927 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066931 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066934 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066938 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066941 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066946 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066949 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066952 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066956 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066960 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066963 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066967 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.066972 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066975 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.066978 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.066982 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066987 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066989 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.066993 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.066998 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067000 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067004 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067008 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067013 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067015 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067019 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067023 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067027 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067030 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067034 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067037 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067041 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067045 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067049 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067052 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067056 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067060 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067063 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067067 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067071 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067080 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067083 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067087 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067091 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067095 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067099 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067102 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067106 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067111 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067114 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067117 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067121 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067126 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067128 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067133 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067137 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067139 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067143 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067147 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067150 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067154 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067158 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067162 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067165 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067169 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067173 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067176 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067180 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067184 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067188 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067191 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067195 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067199 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067202 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067206 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067210 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067214 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067217 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067221 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067224 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067229 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067232 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067235 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067239 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067243 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067246 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067250 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067255 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067258 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067261 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067265 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067270 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067272 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067276 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067281 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067284 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067293 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067296 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067301 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067304 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067307 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067312 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067315 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067377 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067382 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067385 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067389 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067394 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067396 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067400 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067404 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067409 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067411 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067415 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067420 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067422 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067426 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067430 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067435 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067437 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067441 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067445 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067448 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067452 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067456 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067461 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067463 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067467 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067471 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067474 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067478 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067482 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067487 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067489 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067493 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067497 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067500 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067504 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067508 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067512 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067515 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067519 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067523 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067526 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067530 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067534 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067538 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067541 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067545 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067549 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067552 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067571 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067575 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067579 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067584 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067587 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067590 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067595 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067598 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067602 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067605 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067610 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067613 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067616 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067620 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067624 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067627 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067631 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067636 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067639 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067642 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067646 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067651 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067653 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067657 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067662 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067665 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067668 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067672 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067677 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067680 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067683 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067687 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067690 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067694 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067698 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067701 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067705 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067709 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067713 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067716 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067720 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067724 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067728 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067731 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067735 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067739 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067742 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067746 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067750 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067754 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067759 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067761 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067764 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067768 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067772 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067775 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067790 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067793 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067797 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067800 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067804 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067808 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067811 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067816 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067819 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067823 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067826 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067831 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067834 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067837 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067842 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067845 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067849 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067852 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067857 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067860 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067863 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067867 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067871 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067875 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067878 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067883 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067886 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067889 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067893 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067898 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067901 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067904 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067909 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067912 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067915 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067919 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.067924 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067926 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.067930 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067934 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067937 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067941 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067945 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067950 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067952 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067956 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067960 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067963 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067967 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067971 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067975 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.067978 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067982 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067986 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.067989 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.067998 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068002 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.068006 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068010 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.068013 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.068017 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068022 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068024 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068028 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068032 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068037 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.068039 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068043 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068048 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068050 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068054 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068058 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.068063 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068065 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068069 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068073 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068076 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068080 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.068084 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068089 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.068091 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.068095 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068099 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068102 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068106 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068110 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068114 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.068117 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068121 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068125 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068128 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068132 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068136 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.068140 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068143 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068147 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068151 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068154 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068158 64886 hw1.cpp:35] Create a zero-matrix with size: (3, 3)
+I20230713 16:10:38.068162 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068166 64886 hw1.cpp:238] Determinant of the matrix.
+I20230713 16:10:38.068169 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.068173 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068176 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068181 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068184 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068188 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068192 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.068195 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068199 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068208 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068212 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068215 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068219 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 2)
+I20230713 16:10:38.068223 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068228 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068230 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068234 64886 hw1.cpp:35] Create a zero-matrix with size: (1, 1)
+I20230713 16:10:38.068238 64886 hw1.cpp:211] Minor of the matrix
+I20230713 16:10:38.068241 64886 hw1.cpp:265] Inverse of the matrix.
+I20230713 16:10:38.068296 64886 hw1.cpp:276] Concatenate of two matrices.
+W20230713 16:10:38.068301 64886 hw1.cpp:283] To concatenate two matrices vertically: columns aren't equal.
+I20230713 16:10:38.068354 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 3)
+I20230713 16:10:38.068365 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.068374 64886 hw1.cpp:35] Create a zero-matrix with size: (4, 3)
+I20230713 16:10:38.068378 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.068385 64886 hw1.cpp:276] Concatenate of two matrices.
+I20230713 16:10:38.068413 64886 hw1.cpp:276] Concatenate of two matrices.
+W20230713 16:10:38.068418 64886 hw1.cpp:296] To concatenate two matrices horizontally: rows aren't equal.
+I20230713 16:10:38.068431 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 3)
+I20230713 16:10:38.068435 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.068447 64886 hw1.cpp:35] Create a zero-matrix with size: (2, 1)
+I20230713 16:10:38.068450 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.068457 64886 hw1.cpp:276] Concatenate of two matrices.
+W20230713 16:10:38.068480 64886 hw1.cpp:315] Swap two rows in a matrix: row doesn't exists.
+I20230713 16:10:38.068490 64886 hw1.cpp:35] Create a zero-matrix with size: (4, 3)
+I20230713 16:10:38.068495 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.068502 64886 hw1.cpp:318] Swap two rows in a matrix.
+I20230713 16:10:38.068522 64886 hw1.cpp:35] Create a zero-matrix with size: (4, 3)
+I20230713 16:10:38.068526 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.068539 64886 hw1.cpp:337] Multiply a row in a matrix.
+I20230713 16:10:38.068557 64886 hw1.cpp:35] Create a zero-matrix with size: (4, 3)
+I20230713 16:10:38.068562 64886 hw1.cpp:62] Randomize the zero matrix.
+I20230713 16:10:38.068568 64886 hw1.cpp:355] Add a row with 2 * row
+W20230713 16:10:38.068593 64886 hw1.cpp:24] The operation asks for a square matrix.
+I20230713 16:10:38.068609 64886 hw1.cpp:355] Add a row with -5 * row
+I20230713 16:10:38.068614 64886 hw1.cpp:383] Convert a matrix to a upper_triangular matrix
+I20230713 16:10:38.068620 64886 hw1.cpp:355] Add a row with -4 * row
+I20230713 16:10:38.068625 64886 hw1.cpp:355] Add a row with -6 * row
+I20230713 16:10:38.068630 64886 hw1.cpp:355] Add a row with -11 * row
+I20230713 16:10:38.068634 64886 hw1.cpp:383] Convert a matrix to a upper_triangular matrix
+I20230713 16:10:38.068656 64886 hw1.cpp:355] Add a row with 1 * row
+I20230713 16:10:38.068662 64886 hw1.cpp:355] Add a row with -1 * row
+I20230713 16:10:38.068667 64886 hw1.cpp:355] Add a row with -1.5 * row
+I20230713 16:10:38.068671 64886 hw1.cpp:355] Add a row with -6.25 * row
+I20230713 16:10:38.068676 64886 hw1.cpp:383] Convert a matrix to a upper_triangular matrix

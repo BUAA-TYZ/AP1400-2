@@ -1,10 +1,13 @@
 #ifndef AP_HW1_H
 #define AP_HW1_H
+#include <iomanip>
 #include <iostream>
 #include <random>
 #include <stdexcept>
 #include <string>
 #include <vector>
+
+#include <glog/logging.h>
 
 using Matrix = std::vector<std::vector<double>>;
 

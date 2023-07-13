@@ -1,0 +1,14 @@
+Log file created at: 2023/07/13 16:10:38
+Running on machine: tyz-virtual-machine
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W20230713 16:10:38.063194 64886 hw1.cpp:58] Wrong range for random: min > max
+W20230713 16:10:38.063437 64886 hw1.cpp:107] Two matrices multiply:columns of mat1 aren't equal to rows of mat2.
+W20230713 16:10:38.063556 64886 hw1.cpp:145] Two matrices add: Sizes aren't equal
+W20230713 16:10:38.063709 64886 hw1.cpp:24] The operation asks for a square matrix.
+W20230713 16:10:38.064473 64886 hw1.cpp:24] The operation asks for a square matrix.
+W20230713 16:10:38.064831 64886 hw1.cpp:249] Calculate the inverse: det is zero.
+W20230713 16:10:38.068301 64886 hw1.cpp:283] To concatenate two matrices vertically: columns aren't equal.
+W20230713 16:10:38.068418 64886 hw1.cpp:296] To concatenate two matrices horizontally: rows aren't equal.
+W20230713 16:10:38.068480 64886 hw1.cpp:315] Swap two rows in a matrix: row doesn't exists.
+W20230713 16:10:38.068593 64886 hw1.cpp:24] The operation asks for a square matrix.
